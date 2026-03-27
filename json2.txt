@@ -1,0 +1,37 @@
+[
+{
+"title": "Tyrannosaurus Rex",
+"scientific_name": "T. rex",
+"thumbnail": "https://images.unsplash.com/photo-1517926967795-31933df9ee6b?q=80&w=400",
+"url": "https://sites.google.com/site/unblockedgames66ez/slope",
+"description": "A dominant predator of the Late Cretaceous, known for its speed and agility."
+},
+{
+"title": "Velociraptor Mongoliensis",
+"scientific_name": "V. mongoliensis",
+"thumbnail": "https://images.unsplash.com/photo-1620311090180-6060c283ebbe?q=80&w=400",
+"url": "https://sites.google.com/site/unblockedgame76/1v1-lol",
+"description": "A pack hunter famous for its quick reflexes and strategic combat maneuvers."
+},
+{
+"title": "Triceratops Horridus",
+"scientific_name": "T. horridus",
+"thumbnail": "https://images.unsplash.com/photo-1518173835740-f5d14111d76a?q=80&w=400",
+"url": "https://math-class.live",
+"description": "A sturdy herbivore capable of navigating complex, physics-based environments."
+},
+{
+"title": "Pterodactylus Antiquus",
+"scientific_name": "P. antiquus",
+"thumbnail": "https://images.unsplash.com/photo-1525827232007-f7bc86c73c2d?q=80&w=400",
+"url": "https://7x.games/tunnel-rush",
+"description": "An aerial specimen that thrives in high-speed, high-pressure flight corridors."
+},
+{
+"title": "Brachiosaurus Altithorax",
+"scientific_name": "B. altithorax",
+"thumbnail": "https://images.unsplash.com/photo-1606856094755-71f7f0118151?q=80&w=400",
+"url": "https://classroom20x.com",
+"description": "A massive specimen with an expansive library of prehistoric data."
+}
+]

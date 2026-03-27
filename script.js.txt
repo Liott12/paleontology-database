@@ -1,0 +1,14 @@
+function displayGames(gamesList) {
+var htmlString = "";
+for (var i = 0; i < gamesList.length; i++) {
+var game = gamesList[i];
+htmlString +=
+'<div class="game-card" onclick="location.href=\'' + game.url + '\'">' +
+'<img src="' + game.thumbnail + '" alt="' + game.title + '">' +
+'<h3>' + game.title + '</h3>' +
+'<p style="font-style: italic; color: #8d6e63; font-size: 0.8rem;">' + game.scientific_name + '</p>' +
+'<p style="font-size: 0.9rem;">' + game.description + '</p>' +
+'</div>';
+}
+gameGrid.innerHTML = htmlString;
+}
